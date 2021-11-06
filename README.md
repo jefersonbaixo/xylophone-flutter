@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Xylophone 🎹
 
 A simple project made and improved at AppBrevery Flutter Development Bootcamp.
